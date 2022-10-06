@@ -1,0 +1,252 @@
+*{
+    box-sizing: border-box;
+}
+body{    
+    background-color: rgb(3, 32, 57);
+}
+.ota{
+    width: 1100px;
+    margin: 0 auto;
+}
+
+.img{
+    display: inline-block;
+}
+.ul{
+    color: white;
+    display: inline-block;
+    vertical-align: top;
+    margin: 25px;
+}
+.ul li{
+    display: inline-block;
+    padding: 0 20px;
+}
+.button{
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px 50px;
+    width: 112px;
+    height: 52px;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+}
+.button:hover{
+    transition: 0.4s;
+    box-shadow: 0 0  14px grey;
+    background-color: rgb(4, 73, 133);
+}
+.button:active{
+    background-color: rgb(255, 255, 255);
+    color: blue;
+}
+.br{
+    display: inline-block;
+}
+.ota2{
+    width: 210px;
+    height: 500px;
+    display: inline-block;
+}
+
+.text1{
+    border: 5px;
+    width: 560px;
+    height: 415px;
+    color: #3A68B8;
+    text-transform: uppercase;
+    font-size: 18px;
+    display: inline-block;
+    vertical-align: top;
+}
+.text2{
+    color: white;
+    font-size: 25px;
+    text-transform: none;
+}
+.p{
+    color: rgb(101, 92, 92);
+    text-transform: none;
+}
+.button2{
+    width: 171px;
+    height: 57px;
+    background: #3A68B8;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+.button2:hover{
+    background-color: #1969f3;
+}
+.button2:active{
+    background-color: #fefefe;
+}
+.button3:hover{
+    background-color: #1969f3;
+}
+.button3:active{
+    background-color: #fefefe;
+}
+
+.button3{
+    width: 217px;
+    height: 57px;
+    background: #3A68B8;
+    border-radius: 5px;
+    color: white;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.bigImg{
+    display: inline-block;
+    vertical-align: top;
+}
+.logoipsum{
+    width: 1146px;
+    height: 59px;
+    margin: 0 auto;
+}
+.dad{
+    width: 56px;
+    height: 669px;
+    display: inline-block;
+}
+.img2{
+    display: inline-block;
+}
+.text5svg{
+    display: inline-block;
+    vertical-align: top;
+}
+.text5svg p{
+    color: white;
+    font-size: 40px;
+}
+.text5svg span{
+    color: rgb(103, 102, 102);
+}
+.text5svg button{
+    width: 150px;
+    height: 52px;
+    background: #3A68B8;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+.text5svg button:hover{
+    background-color: #1969f3;
+}
+.text5svg button:active{
+    background-color: #fefefe;
+}
+.dad2 li{
+    background-color: rgb(28, 29, 49);
+    border: 5px solid;
+    border-radius: 25px;
+    width: 262px;
+    height: 450px;
+    display: inline-block;
+    margin: 0 5px;
+}
+
+.dad2 li img{
+    /* width: 98px;
+    height: 103px; */
+    padding: 47px 85px;
+}
+.dad2 li .p{
+    text-align: center;
+    font-size: 25px;
+    color: rgba(255, 255, 255, 0.519);
+}
+.dad2 li p{
+    color: white;
+    text-align: center;
+}
+.dad3{
+    width: 1246px;
+    height: 551px;
+    margin: 0 auto;
+}
+.what{
+    color: white;
+    font-size: 40px;
+}
+.textt{
+    color: rgba(255, 255, 255, 0.525);
+    display: inline-block;
+}
+.imgg{
+    display: inline-block;
+    vertical-align:top;
+    
+}
+
+.dad4{
+    width: 1246px;
+    margin: 0 auto;
+}
+.imggg{
+    display: inline-block;
+}
+.imggg p{
+    color: rgba(255, 255, 255, 0.604);
+}
+.imggg .chi1{
+    color: white;
+}
+.imggg .chi2{
+    color: white;
+}
+.imggg .chi3{
+    color: white;
+}
+
+.i2{
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 80px;
+}
+.info{
+    color: white;
+}
+.i2 span{
+    color: #ffffffc5;
+}
+.i3{
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 80px;
+}
+.info2{
+    font-size: 16px;
+    color: white;
+}
+.i3 span{
+    color: rgba(255, 255, 255, 0.738);
+}
+.i4{
+    display: inline-block;
+    vertical-align: top;
+    margin: 0 80px;
+}
+.i4 .info3{
+    color: white;
+}
+.i4 p{
+    color: rgba(255, 255, 255, 0.64);
+}
+.i4 span{
+    color: white;
+    font-size: 20px;
+}
+#h1{
+    text-align: center;
+    color: #00eeff;
+}
+
+
